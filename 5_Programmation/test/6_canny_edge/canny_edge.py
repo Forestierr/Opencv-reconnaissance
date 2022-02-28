@@ -11,7 +11,7 @@ while(1):
     ret, frame = cap.read()
     
     #réalisation des contoures
-    edge = cv2.Canny(frame,100,150)
+    edge = cv2.Canny(frame,80,80)
     
     #affiche l'image dans le fenêtre caméra
     cv2.imshow('caméra',edge)

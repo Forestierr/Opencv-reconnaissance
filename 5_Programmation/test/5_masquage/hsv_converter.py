@@ -9,7 +9,7 @@ import cv2
 import numpy as np
 
 #import de l'image en BGR
-color = np.uint8([[[10,10,10]]])
+color = np.uint8([[[34,87,255]]])
 
 #convertion
 hsv_color = cv2.cvtColor(color, cv2.COLOR_BGR2HSV)

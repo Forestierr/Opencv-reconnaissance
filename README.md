@@ -21,7 +21,8 @@ Voici le matérielle que j'ai pu essayer durant ma spécialisation :
 |Raspberry Pi 3B+|✔️|[Raspberry](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) |40 .- |
 |Raspberry Pi cam V1.3|✔|[Raspberry cam (v2)](https://www.raspberrypi.org/products/camera-module-v2/)|30 .-|
 |Nvidia jetson TX2|✖️|[jetson TX2](https://www.nvidia.com/fr-fr/autonomous-machines/embedded-systems/jetson-tx2/)|600 .-|
-|Coral USB accelerator|✔|[USB accelerator](https://coral.ai/products/accelerator)|60 .-|
+|Coral USB accelerator|✖️|[USB accelerator](https://coral.ai/products/accelerator)|60 .-|
+|OAK-D|✔|[OAK-D](https://store.opencv.ai/products/oak-d) |300 .-|
 
 <h2>Raspberry Pi 3B+</h2>
 
@@ -119,6 +120,27 @@ Voici l'USB accelerator de Coral.
 Coral USB Accelerator est un module externe vous ajoutant un coprocesseur Edge TPU vous réalisant l’entièreté de vos calculs en rapport à l’intelligence artificiel à grande vitesse est avec un très petit délai. <br>
 Ce boitier développer par Coral (Google), fonctionne avec Linux, Mac et Windows. Il est aussi compatible avec Tensorflow lite et disponible aux prix de ~60 CHF sur Farnell. <br>
 
+<h2>OAK-D </h2>
+
+<h3>Présentation </h3>
+
+La caméra OAK-D embarque 3 caméras. Une central de 12MP et deux autre caméra de 1MP répartie de part est d'autre de la première. La caméra central est RGB, permettant une detection de couleur, les deux autre sont elle uniquement en noir et blanc.
+
+Ces trois caméras se trouvent dans un boitier métallique servant aussi de radiateur. Elles peuvent être alimentée soit uniquement par USB (attention moins de puissance) ou avec l'adaptateur secteur 5V 3A (avec un câble adapté).
+
+<p> <img src="http://172.16.32.230/Forestier/reconnaissance-visuel/-/raw/master/1_Documentation/img/OAK-D.jpg"  width="350" height="381"> </p>
+
+| |Color Camera|	Stereo Camera Pair|
+:---- |:--- |:----|
+|Shutter Type|Rolling Shutter|Sync Global Shutter|
+|Image Sensor|IMX378|OV9282|
+|Max Framerate|60fps|120fps|
+|H.265 Framerate|30fps|120fps|
+|Resolution|12MP (4056x3040 px/1.55um)|1MP (1280x800 px/3um)|
+|Field of View|81° DFoV - 68.8° HFoV|81° DFoV - 71.8° HFoV|
+|Lens Size|1/2.3 Inch|1/2.3 Inch|
+|Focus|8cm - ∞(AutoFocus)|19.6cm - ∞(FixedFocus)|
+|F-number|2.0|2.2|
 
 <h2> </h2>
     
