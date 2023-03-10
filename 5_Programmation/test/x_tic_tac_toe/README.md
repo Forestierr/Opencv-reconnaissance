@@ -9,19 +9,19 @@ L'ajout d'une "AI" pour ensuite peutêtre l'implementer sur une machine qui dess
 
 1. détection de la grille
 
-<p> <img src="http://172.16.32.230/Forestier/reconnaissance-visuel/-/raw/master/5_Programmation/test/x_tic_tac_toe/example/grid_detect.png"  width="320" height="240"> <p>
+<p> <img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/5_Programmation/test/x_tic_tac_toe/example/grid_detect.png" width="320" height="240"> <p>
 
 2. dessin de la croix et du rond
 
 <p> 
-<img src="http://172.16.32.230/Forestier/reconnaissance-visuel/-/raw/master/5_Programmation/test/x_tic_tac_toe/example/cross_dessin.png"  width="320" height="240">
+<img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/5_Programmation/test/x_tic_tac_toe/example/cross_dessin.png"  width="320" height="240">
 
-<img src="http://172.16.32.230/Forestier/reconnaissance-visuel/-/raw/master/5_Programmation/test/x_tic_tac_toe/example/rond_dessin.png"  width="320" height="240">
+<img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/5_Programmation/test/x_tic_tac_toe/example/rond_dessin.png"  width="320" height="240">
 <p>
 
 3. résultat 
 
-<p> <img src="http://172.16.32.230/Forestier/reconnaissance-visuel/-/raw/master/5_Programmation/test/x_tic_tac_toe/example/in_game.png"  width="320" height="240"> <p>
+<p> <img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/5_Programmation/test/x_tic_tac_toe/example/in_game.png"  width="320" height="240"> <p>
 
 ## AI
 
