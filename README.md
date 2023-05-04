@@ -10,6 +10,10 @@ sur le traitement d'image et la reconnaissance d'image.
 
 Si vous êtes intéressé liser : [Practical Python and OpenCV 3rd Edition](https://github.com/Forestierr/Opencv-reconnaissance/blob/main/1_Documentation/Practical_Python_and_OpenCV__3rd_Edition.pdf)
 
+<h2>Documention PDF</h2>
+
+Documentation complète : [Document PDF](https://github.com/Forestierr/Opencv-reconnaissance/blob/main/1_Documentation/xwiki_OpenCV_23.08.2021.pdf)
+
 <h2>Matériel</h2>
 
 Voici le matérielle que j'ai pu essayer durant ma spécialisation :
