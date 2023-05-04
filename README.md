@@ -59,7 +59,7 @@ Pour brancher la caméra veiller à :
 - Ne pas être charger en électriciter static.
 - Débrancher l'alimentation de votre Raspberry Pi.
 
-<p> <img src="https://github.com/Forestierr/reconnaissance-visuel/raw/master/1_Documentation/img/install_cam.gif"  width="400" height="200"> </p>
+<p> <img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/1_Documentation/img/install_cam.gif"  width="400" height="200"> </p>
 
 - Dans les réglages d'interface de Raspberry Pi, activer la caméra.
 
