@@ -5,12 +5,10 @@
 
 >  Release : [release](http://172.16.32.230/Forestier/reconnaissance-visuel/-/releases)
 
->  XWiki : [OpenCV](https://xwiki.serverelo.org/xwiki/bin/view/Centre%20de%20Formation%20ELO/Projets/Robotique/OpenCV/)
-
 Voici mon Gitlab regroupant mon travaille tout aux long de ma 3ème et ma 4ème années d'apprentssage,
 sur le traitement d'image et la reconnaissance d'image.
 
-Si vous êtes intéressé liser : [Practical Python and OpenCV 3rd Edition](http://172.16.32.230/Forestier/reconnaissance-visuel/blob/master/1_Documentation/Practical_Python_and_OpenCV__3rd_Edition.pdf)
+Si vous êtes intéressé liser : [Practical Python and OpenCV 3rd Edition](https://github.com/Forestierr/Opencv-reconnaissance/blob/main/1_Documentation/Practical_Python_and_OpenCV__3rd_Edition.pdf)
 
 <h2>Matériel</h2>
 
@@ -61,7 +59,7 @@ Pour brancher la caméra veiller à :
 - Ne pas être charger en électriciter static.
 - Débrancher l'alimentation de votre Raspberry Pi.
 
-<p> <img src="http://172.16.32.230/Forestier/reconnaissance-visuel/raw/master/1_Documentation/img/install_cam.gif"  width="400" height="200"> </p>
+<p> <img src="https://github.com/Forestierr/reconnaissance-visuel/raw/master/1_Documentation/img/install_cam.gif"  width="400" height="200"> </p>
 
 - Dans les réglages d'interface de Raspberry Pi, activer la caméra.
 
@@ -86,7 +84,7 @@ OpenCv propose plus de 2500 algorithmes pour effectuer différent traitement sur
 
 <h3>Programme </h3>
 
-Vous trouverez lentièreté de mes programmes de test [ici](http://172.16.32.230/Forestier/reconnaissance-visuel/tree/master/5_Programmation/test). <br>
+Vous trouverez l'entièreté de mes programmes de test [ici](https://github.com/Forestierr/reconnaissance-visuel/tree/master/5_Programmation/test). <br>
 Pour les tester, utilisé Thonny disponible de base sur Raspberry Pi. <br>
 Vous Trouverez ci dessous la documentation officiel d'Open CV ansi qu'un site explicant l'entièreté
 des principales fonctions.
@@ -115,7 +113,8 @@ Après plusieurs semaine d’essaye, j’ai décidé d’abandonner cette carte 
 <h3>Présentation </h3>
 
 Voici l'USB accelerator de Coral.
-<p> <img src="http://172.16.32.230/Forestier/reconnaissance-visuel/raw/master/1_Documentation/img/coral_USB_accelerator.jpg"  width="350" height="250"> </p>
+
+<p> <img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/1_Documentation/img/coral_USB_accelerator.jpg"  width="350" height="250"> </p>
 
 Coral USB Accelerator est un module externe vous ajoutant un coprocesseur Edge TPU vous réalisant l’entièreté de vos calculs en rapport à l’intelligence artificiel à grande vitesse est avec un très petit délai. <br>
 Ce boitier développer par Coral (Google), fonctionne avec Linux, Mac et Windows. Il est aussi compatible avec Tensorflow lite et disponible aux prix de ~60 CHF sur Farnell. <br>
@@ -128,7 +127,7 @@ La caméra OAK-D embarque 3 caméras. Une central de 12MP et deux autre caméra 
 
 Ces trois caméras se trouvent dans un boitier métallique servant aussi de radiateur. Elles peuvent être alimentée soit uniquement par USB (attention moins de puissance) ou avec l'adaptateur secteur 5V 3A (avec un câble adapté).
 
-<p> <img src="http://172.16.32.230/Forestier/reconnaissance-visuel/-/raw/master/1_Documentation/img/OAK-D.jpg"  width="350" height="381"> </p>
+<p> <img src="https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/1_Documentation/img/OAK-D.jpg"  width="350" height="381"> </p>
 
 | |Color Camera|	Stereo Camera Pair|
 :---- |:--- |:----|
