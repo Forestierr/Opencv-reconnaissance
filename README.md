@@ -3,7 +3,7 @@
 </div>
 
 
->  Release : [release](http://172.16.32.230/Forestier/reconnaissance-visuel/-/releases)
+>  Release : [release](https://github.com/Forestierr/Opencv-reconnaissance/releases)
 
 Voici mon Gitlab regroupant mon travaille tout aux long de ma 3ème et ma 4ème années d'apprentssage,
 sur le traitement d'image et la reconnaissance d'image.
