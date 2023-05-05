@@ -2,7 +2,7 @@
 
 <h2> Description </h2>
 
-<img src="http://172.16.32.230/Forestier/reconnaissance-visuel/raw/master/1_Documentation/img/OAK-D.jpg"  width="234" height="256">
+<img src="[http://172.16.32.230/Forestier/reconnaissance-visuel/raw/master/1_Documentation/img/OAK-D.jpg](https://raw.githubusercontent.com/Forestierr/Opencv-reconnaissance/main/1_Documentation/img/OAK-D.jpg)"  width="234" height="256">
 
 OAK-D ou OpenCv AI Kit ou encore BW1098OCB est une caméra dévellopé par OpenCv 
 et Luxonis pour réaliser des traveaux avec de la profondeur.
